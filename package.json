@@ -1,0 +1,11 @@
+{
+  "name": "srv",
+  "version": "1.0.0",
+  "description": "app to srv forms",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
